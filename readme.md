@@ -1,51 +1,57 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+# Gold Store
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+Best app for buying and selling gold and silver in Kuwait ,Gold Store Developed using Laravel
 
-## About Laravel
+   <img src="./public/images/Cover.png" >
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+<div align="center">
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+[![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Car_Game_Python_Pygame.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/abdalla3yash/resala/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Car_Game_Python_Pygame.svg?style=flat&label=Issues&maxAge=2592000)](https://https://github.com/abdalla3yash/resala/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
+</div>
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
 
-## Laravel Sponsors
+## 💻 Installation steps
 
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](http://patreon.com/taylorotwell):
+- Updated to `Laravel 5.7.*` Now!
+- PHP `7.3.4` with Sound Null Safety!
 
-- **[Vehikl](http://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Styde](https://styde.net)**
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
+Open CMD where you want to clone the project & run the following commands
 
-## Contributing
+```
+git clone https://github.com/HussienMaghrabi/goldStore.git
+cd goldStore
+php artsan serve
+php artsan storage:link
+```
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+## 📱 Screen Shots
 
-## Security Vulnerabilities
+<img src="./public/images/screenshots/GoldStore-1.png" width=180> <img src="./public/images/screenshots/GoldStore-2.png" width=180> <img src="./public/images/screenshots/GoldStore-3.png" width=180> <img src="./public/images/screenshots/GoldStore-4.png" width=180> <img src="./public/images/screenshots/GoldStore-5.png" width=180> <img src="./public/images/screenshots/GoldStore-6.png" width=180> <img src="./public/images/screenshots/GoldStore-7.png" width=180> <img src="./public/images/screenshots/GoldStore-8.png" width=180> <img src="./public/images/screenshots/GoldStore-9.png" width=180> <img src="./public/images/screenshots/GoldStore-10.png" width=180> 
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
 
-## License
+## 🔗  Information
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+App: https://play.google.com/store/apps/details?id=com.ValuxApps.GoldStore
+
+
+
+## 🧑 Devolper
+
+#### Hussein Maghrabi
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Maghrabi-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/hussein-maghrabi/)
+
+You can also follow my GitHub Profile to stay updated about my latest projects:
+
+[![GitHub Follow](https://img.shields.io/badge/Connect-Maghrabi-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/HussienMaghrabi)
+
+If you liked the repo then kindly support it by giving it a star ⭐!
+
+Copyright (c) 2022 Hussein Maghrabi
